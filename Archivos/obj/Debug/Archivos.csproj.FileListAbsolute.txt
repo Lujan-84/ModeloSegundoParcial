@@ -1,0 +1,6 @@
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\Archivos\bin\Debug\Archivos.dll
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\Archivos\bin\Debug\Archivos.pdb
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\Archivos\obj\Debug\Archivos.dll
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\Archivos\obj\Debug\Archivos.pdb

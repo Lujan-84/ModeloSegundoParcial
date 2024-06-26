@@ -1,0 +1,13 @@
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\obj\Debug\MSP.csproj.AssemblyReference.cache
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\obj\Debug\SP.ModeloSegundoParcial.resources
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\obj\Debug\SP.Properties.Resources.resources
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\obj\Debug\MSP.csproj.GenerateResource.cache
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\obj\Debug\MSP.csproj.CoreCompileInputs.cache
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\bin\Debug\SP.exe.config
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\bin\Debug\SP.exe
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\bin\Debug\SP.pdb
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\bin\Debug\Archivos.dll
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\bin\Debug\Archivos.pdb
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\obj\Debug\MSP.csproj.Up2Date
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\obj\Debug\SP.exe
+C:\Users\jud_h\Escritorio\Segundo Cuatri\Progrmacion\Modelo_SegundoParcial\ModeloSegundoParcialLabII\SP\obj\Debug\SP.pdb
